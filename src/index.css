@@ -11,3 +11,55 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.formu{
+  padding: 30px 50px;
+  background-color: rgba(63, 63, 63, 0.418);
+}
+
+.navBar{
+  display: flex;
+}
+.Nalink{
+  margin: auto;
+}
+.copyr{
+  text-align: center;
+}
+.footerContainer{
+  background-color: rgb(75, 75, 75);
+  color: white;
+}
+.inputBuscar{
+  width: 100%;
+}
+.containerInput{
+  align-items: flex-end;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 25px;
+}
+.Suppliers-container{
+  padding: 1rem;
+}
+.boton{
+  text-align: center;
+}
+
+.boton Button{
+  font-size: 25px;
+  margin: 20px;
+  padding: 10px;
+  width: 200px;
+}
+
+.form label{
+  margin-left: 10px;
+  font-size: 20px;
+}
+
+.dia{
+  font-size: 40px;
+  margin: 30px;
+}
